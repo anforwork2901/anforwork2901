@@ -20,7 +20,7 @@ I am **Phan Thiên An**, a final-year Artificial Intelligence Engineering studen
 
 I have a strong passion for **Computer Vision**, **Deep Learning**, **Multimodal AI**, and **Agentic AI Architecture**.
 
-I have hands-on research and engineering experience building end-to-end AI systems — ranging from **real-time industrial inspection (MobileNetV3, 96% Acc)** and **multimodal sensor fusion (AC-FILM architecture, 99% HAR Acc)** to **stateful multi-agent conversational engines (LangGraph, Clean Hexagonal Architecture, FAISS RAG, sub-10ms context lookups)**.
+I have hands-on research and engineering experience building end-to-end AI systems — ranging from **real-time industrial quality inspection (MobileNetV3, Object Tracking)** and **multimodal sensor fusion (AC-FILM architecture for HAR & crowd counting)** to **stateful multi-agent conversational engines (LangGraph, Clean Hexagonal Architecture, FAISS RAG, sub-10ms context lookups)**.
 
 My goal is to develop state-of-the-art AI solutions, contribute to meaningful real-world technology products, and continuously push the boundaries of AI engineering.
 
@@ -74,18 +74,18 @@ My goal is to develop state-of-the-art AI solutions, contribute to meaningful re
 ### 📶 WiFi & Depth Fusion for Human Activity Recognition (HAR)
 *SOTA Multimodal Sensing Framework*
 - Processed high-fidelity CSI (WiFi Channel State Information) and depth camera data.
-- Designed a novel **AC-FILM fusion architecture**, achieving **SOTA 99% accuracy** (+2% over baseline).
+- Designed a novel **AC-FILM fusion architecture**, achieving **SOTA accuracy** outperforming baseline models.
 - Deployed lightweight model for real-time HAR operation.
 
 ### 🏭 Coffee Package Orientation QC System
 *Industrial Computer Vision System*
 - Developed real-time quality-control using Object Tracking to classify package orientation on high-speed conveyor belts.
-- Optimized lightweight **MobileNetV3**, achieving **96% accuracy** with ultra-low inference latency.
+- Optimized lightweight **MobileNetV3**, achieving high accuracy with ultra-low inference latency for stable industrial operation.
 
 ### 🌾 Dragon Fruit Disease Classification
 *Agricultural Computer Vision Research*
 - Led end-to-end dataset collection and RoboFlow labeling for plant disease identification.
-- Achieved **98% accuracy** utilizing **Vision Transformer (ViT-16)**.
+- Built and benchmarked classification pipeline utilizing **Vision Transformer (ViT-16)**.
 - Published 1 research paper in *Tiền Giang Journal of Agriculture* (June 2025).
 
 ---
