@@ -5,10 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthienphan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anforwork2901@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anforwork2901)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0738--6054-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0738-6054)
 [![Location](https://img.shields.io/badge/Location-Ho_Chi_Minh_City-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 📍 **Location:** Ho Chi Minh City, Vietnam  
 🔗 **GitHub:** [https://github.com/anforwork2901](https://github.com/anforwork2901)  
+🆔 **ORCID:** [https://orcid.org/0009-0004-0738-6054](https://orcid.org/0009-0004-0738-6054)  
 
 ---
 
