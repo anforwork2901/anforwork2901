@@ -62,34 +62,6 @@ My goal is to develop state-of-the-art AI solutions, contribute to meaningful re
 
 ---
 
-## 💻 Featured Projects & Research
-
-### 🤖 Enterprise AI Co-Worker Engine
-*Stateful Multi-Agent Conversational System*
-- Engineered a multi-agent engine using **LangGraph StateGraph** and **Clean Architecture (Hexagonal)**, decoupling domain logic from external LLMs.
-- Built a **Director/Supervisor Agent** for loop detection and in-character hint injection with dual-layer prompt injection guardrails.
-- Integrated persona-scoped **FAISS vector retrieval** (<10ms context lookups) supporting dual-provider (Gemini & OpenAI).
-- Achieved **100% mocked Pytest coverage** for graph state determinism and zero regression.
-
-### 📶 WiFi & Depth Fusion for Human Activity Recognition (HAR)
-*SOTA Multimodal Sensing Framework*
-- Processed high-fidelity CSI (WiFi Channel State Information) and depth camera data.
-- Designed a novel **AC-FILM fusion architecture**, achieving **SOTA accuracy** outperforming baseline models.
-- Deployed lightweight model for real-time HAR operation.
-
-### 🏭 Coffee Package Orientation QC System
-*Industrial Computer Vision System*
-- Developed real-time quality-control using Object Tracking to classify package orientation on high-speed conveyor belts.
-- Optimized lightweight **MobileNetV3**, achieving high accuracy with ultra-low inference latency for stable industrial operation.
-
-### 🌾 Dragon Fruit Disease Classification
-*Agricultural Computer Vision Research*
-- Led end-to-end dataset collection and RoboFlow labeling for plant disease identification.
-- Built and benchmarked classification pipeline utilizing **Vision Transformer (ViT-16)**.
-- Published 1 research paper in *Tiền Giang Journal of Agriculture* (June 2025).
-
----
-
 ## 📜 Publications
 
 - **Phan Thiên An et al. (2025)**. *Dragon Fruit Disease Detection using ViT-16.* **Tiền Giang Journal of Agriculture** (June 2025).
